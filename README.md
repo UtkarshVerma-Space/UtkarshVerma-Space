@@ -1,6 +1,6 @@
 # 💕  Utkarsh Verma - Space  💕
-- 🔭 I’m currently working on AI projects on web.
-- 🌱 I’m currently learning new technologies related to AI & WEB 
+- 🕶️ I’m currently working on AI projects on web.
+- 🖥️ I’m currently learning new technologies related to AI & WEB 
 - ⚡ Most AI's Are Female So It Can Never Be Wrong 😉
 
 #### 💚💚 Fell free to suggest, guide, or contribute in any of my projects here 💚💚
